@@ -1,0 +1,3 @@
+Go to
+C:\Program Files (x86)\DOSBox-0.74
+Then add the command lines till "ml hello.asm" at the end 
