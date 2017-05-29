@@ -1,0 +1,101 @@
+row1pos1
+printcar 20,40,240,260 ;call print
+printcar 20,40,280,300
+printcar 0,20,260,280
+printcar 0,20,300,320 ;call print
+printcar 40,60,260,280
+printcar 40,60,300,320 
+
+row1pos2
+printcar 20,40,160,180 ;call print
+printcar 20,40,200,220
+printcar 0,20,180,200
+printcar 0,20,220,240 ;call print
+printcar 40,60,180,200
+printcar 40,60,220,240 
+
+row1pos3
+printcar 20,40,80,100 ;call print
+printcar 20,40,120,140
+printcar 0,20,100,120
+printcar 0,20,140,160 ;call print
+printcar 40,60,100,120
+printcar 40,60,140,160
+
+row1pos4
+printcar 20,40,0,20 ;call print
+printcar 20,40,40,60
+printcar 0,20,20,40
+printcar 0,20,60,80 ;call print
+printcar 40,60,20,40
+printcar 40,60,60,80 
+
+row2pos1
+
+printcar 80,100,240,260 ;call print
+printcar 80,100,280,300
+printcar 60,80,260,280
+printcar 60,80,300,320 ;call print
+printcar 100,120,260,280
+printcar 100,120,300,320 
+
+row2pos2
+
+printcar 80,100,160,180 ;call print
+printcar 80,100,200,220
+printcar 60,80,180,200
+printcar 60,80,220,240 ;call print
+printcar 100,120,180,200
+printcar 100,120,220,240 
+
+row2pos3
+
+
+printcar 80,100,80,100 ;call print
+printcar 80,100,120,140
+printcar 60,80,100,120
+printcar 60,80,140,160 ;call print
+printcar 100,120,100,120
+printcar 100,120,140,160
+
+row2pos4
+printcar 80,100,0,20 ;call print
+printcar 80,100,40,60
+printcar 60,80,20,40
+printcar 60,80,60,80 ;call print
+printcar 100,120,20,40
+printcar 100,120,60,80
+
+row3pos1
+
+printcar 140,160,240,260 ;call print
+printcar 140,160,280,300
+printcar 120,140,260,280
+printcar 120,140,300,320 ;call print
+printcar 160,180,260,280
+printcar 160,180,300,320
+
+row3pos2
+printcar 140,160,160,180 ;call print
+printcar 140,160,200,220
+printcar 120,140,180,200
+printcar 120,140,220,240 ;call print
+printcar 160,180,180,200
+printcar 160,180,220,240
+
+row3pos3
+printcar 140,160,80,100 ;call print
+printcar 140,160,120,140
+printcar 120,140,100,120
+printcar 120,140,140,160 ;call print
+printcar 160,180,100,120
+printcar 160,180,140,160 
+
+row3pos4
+
+printcar 140,160,0,20 ;call print
+printcar 140,160,40,60
+printcar 120,140,20,40
+printcar 120,140,60,80 ;call print
+printcar 160,180,20,40
+printcar 160,180,60,80 
