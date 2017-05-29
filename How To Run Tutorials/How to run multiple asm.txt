@@ -1,0 +1,18 @@
+******How to compile & run multiple .asm codes****************
+- Saad A Akash
+
+Via masm:
+1. Type the usual command lines & change the desired directory in the batch file.
+2. Then when it's pointing to C:\ , type "masm code1.asm" & hit enter
+3. Then "masm code2.asm" & hit enter
+4. Repeat this procedure for assmblong all the assembly codes
+5. then type "link code1.obj code2.obj ( ... & so on) " & hit enter
+6. Then keep hitting enter when run file, link file etc appears
+7. At last type "main.asm" or, the main code u want to run
+
+(The externals will also be linked if the objects are linked.)
+ 
+Via tasm:
+***********I don't know & don't freaking care! Lol**************
+:D 
+ 
